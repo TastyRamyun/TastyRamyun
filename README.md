@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me:
 - email: ep17@me.com
-- phone:832-312-5753
+- phone: 832-312-5753
 
 Im new to github so if anyone has any tips or helpful advice would be awesome!! :)
 
